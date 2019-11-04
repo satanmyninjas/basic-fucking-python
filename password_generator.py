@@ -15,3 +15,4 @@ for amount in range(amount_of_passwords):
     for chars in range(length):
         password += random.choice(characters)
     print(password)
+
